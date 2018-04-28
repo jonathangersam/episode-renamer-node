@@ -4,10 +4,8 @@
   "description": "pattern-matches episodes in a folder an renames them according to data in a csv file",
   "main": "app.js",
   "scripts": {
-	  "start": "node app.js",
     "test": "jasmine",
-    "lint": "standard --fix",
-    "build": "webpack"
+    "lint": "standard --fix"
   },
   "keywords": [
     "rename",
